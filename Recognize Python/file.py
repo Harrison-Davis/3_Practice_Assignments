@@ -66,7 +66,7 @@ def print_hello_x_or_ten_times(x = 10): #declaring the function and inputing arg
     for num in range(x): 
         print('Hello')  #log statement
 
-print_hello_x_or_ten_times()  #log statement
+print_hello_x_or_ten_times()  #log statement 
 print_hello_x_or_ten_times(4)  #log statement
 
 
